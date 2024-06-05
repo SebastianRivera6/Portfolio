@@ -1,0 +1,107 @@
+<mxfile host="app.diagrams.net" modified="2021-04-03T18:53:49.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.116 Safari/537.36" etag="mFqfawfGvLc8LeH6Tbzr" version="14.5.6" type="github">
+  <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
+    <mxGraphModel dx="1516" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="3d76a8aef4d5c911-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="70" width="1150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-2" value="FTD Analyzer" style="html=1;shadow=0;dashed=0;strokeColor=none;shape=mxgraph.bootstrap.rect;fontSize=14;whiteSpace=wrap;fillColor=#000000;fontColor=#FFFFFF;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-3" value="Favorites" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;spacingRight=30;whiteSpace=wrap;fillColor=none;fontColor=#999999;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="115" width="129.375" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-4" value="84" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=8;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;textOpacity=0;fillColor=none;" parent="3d76a8aef4d5c911-3" vertex="1">
+          <mxGeometry x="1" y="0.5" width="25" height="16" relative="1" as="geometry">
+            <mxPoint x="-30" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-5" value="Changelog" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;spacingRight=30;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="244.375" width="158.125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-6" value="42" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=8;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;fillColor=none;textOpacity=0;" parent="3d76a8aef4d5c911-5" vertex="1">
+          <mxGeometry x="1" y="0.5" width="25" height="16" relative="1" as="geometry">
+            <mxPoint x="-30" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-7" value="Data Sources" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="402.5" width="137.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-8" value="Settings" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="540" width="100.625" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-10" value="Log Out" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="1049.375" width="100.625" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-25" value="Source Code" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" vertex="1" parent="3d76a8aef4d5c911-1">
+          <mxGeometry x="920" width="137.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-17" value="Search Ticker" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="150" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-18" value="GME" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#dddddd;;align=left;spacingLeft=10;fontSize=16;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="172.5" width="960" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OUFWiJHkfXgs1Zi_MWCu-1" value="" style="shape=triangle;strokeColor=none;fillColor=#000000;direction=south;rounded=0;shadow=1;fontSize=12;fontColor=#000000;align=center;html=1;" parent="1" vertex="1">
+          <mxGeometry x="980" y="190" width="10" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="OUFWiJHkfXgs1Zi_MWCu-25" value="Latest Site Update: April 5, 2021" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="990" y="110" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OUFWiJHkfXgs1Zi_MWCu-26" value="Latest SEC FTD Data: Jan 1, 2021" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="990" y="130" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-1" value="Add To Favorites" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="172.5" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/graph-6-128.png;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="675" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-11" value="Date" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="547.5" y="540" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-12" value="Fail To Deliver" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="160" y="390" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-13" value="Volume Traded" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="880" y="410" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-14" value="Fail To deliver Vs. Daily Volume" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="426.25" y="240" width="282.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/graph-6-128.png;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="640" width="675" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-16" value="Date" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="910" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-17" value="Fail To Deliver" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="760" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-18" value="Closing Price" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="877.5" y="780" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-19" value="Fail To deliver Vs. Daily Short Volume" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="406.88" y="610" width="316.25" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn0.iconfinder.com/data/icons/business-collection-2027/60/graph-6-128.png;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1010" width="675" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-21" value="Date" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="1280" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-22" value="Fail To Deliver" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1130" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-23" value="Closing Price" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="875" y="1150" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-24" value="Fail To deliver Vs. Daily Closing Price" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="404.38" y="980" width="316.25" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

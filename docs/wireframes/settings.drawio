@@ -1,0 +1,75 @@
+<mxfile host="app.diagrams.net" modified="2021-04-03T19:24:33.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.116 Safari/537.36" etag="XKZqcGxIzvPrzfZ7tkh_" version="14.5.6" type="github">
+  <diagram name="Page-1" id="c9db0220-8083-56f3-ca83-edcdcd058819">
+    <mxGraphModel dx="1516" dy="824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="3d76a8aef4d5c911-1" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;fillColor=#222222;strokeColor=none;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#000000;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="70" width="1150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-2" value="FTD Analyzer" style="html=1;shadow=0;dashed=0;strokeColor=none;shape=mxgraph.bootstrap.rect;fontSize=14;whiteSpace=wrap;fillColor=none;fontColor=#999999;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-3" value="Favorites" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;spacingRight=30;whiteSpace=wrap;fillColor=none;fontColor=#999999;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="115" width="129.375" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-4" value="84" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=8;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;textOpacity=0;fillColor=none;" parent="3d76a8aef4d5c911-3" vertex="1">
+          <mxGeometry x="1" y="0.5" width="25" height="16" relative="1" as="geometry">
+            <mxPoint x="-30" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-5" value="&lt;font color=&quot;#999999&quot;&gt;Changelog&lt;/font&gt;" style="html=1;shadow=0;dashed=0;strokeColor=none;shape=mxgraph.bootstrap.rect;spacingRight=30;whiteSpace=wrap;fontColor=#FFFFFF;fillColor=none;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="244.375" width="158.125" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-6" value="42" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=8;strokeColor=none;fontColor=#ffffff;whiteSpace=wrap;fillColor=none;textOpacity=0;" parent="3d76a8aef4d5c911-5" vertex="1">
+          <mxGeometry x="1" y="0.5" width="25" height="16" relative="1" as="geometry">
+            <mxPoint x="-30" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-7" value="Data Sources" style="html=1;shadow=0;dashed=0;strokeColor=none;shape=mxgraph.bootstrap.rect;whiteSpace=wrap;fillColor=none;fontColor=#999999;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="402.5" width="137.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-8" value="Settings" style="html=1;shadow=0;dashed=0;strokeColor=none;shape=mxgraph.bootstrap.rect;whiteSpace=wrap;fontColor=#FFFFFF;fillColor=#000000;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="540" width="100.625" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3d76a8aef4d5c911-10" value="Log Out" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="1049.375" width="100.625" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="doQEG3IyqD5Emsoq-Yl8-25" value="Source Code" style="html=1;shadow=0;dashed=0;fillColor=none;strokeColor=none;shape=mxgraph.bootstrap.rect;fontColor=#999999;whiteSpace=wrap;" parent="3d76a8aef4d5c911-1" vertex="1">
+          <mxGeometry x="920" width="137.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OUFWiJHkfXgs1Zi_MWCu-25" value="Latest Site Update: April 5, 2021" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="990" y="110" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OUFWiJHkfXgs1Zi_MWCu-26" value="Latest SEC FTD Data: Jan 1, 2021" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rect;strokeColor=none;fillColor=none;fontColor=#999999;align=left;spacingLeft=5;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="990" y="130" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="luR7SyDfyIayZAIEf4j0-13" value="Change Password" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" parent="1" vertex="1">
+          <mxGeometry x="60" y="240" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luR7SyDfyIayZAIEf4j0-14" value="Current Password" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+          <mxGeometry width="800" height="30" relative="1" as="geometry">
+            <mxPoint x="60" y="280" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luR7SyDfyIayZAIEf4j0-16" value="New Password" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+          <mxGeometry width="800" height="30" relative="1" as="geometry">
+            <mxPoint x="60" y="330" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luR7SyDfyIayZAIEf4j0-17" value="Confirm New Password" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="1" vertex="1">
+          <mxGeometry x="60" y="380" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="luR7SyDfyIayZAIEf4j0-18" value="Change" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="1" vertex="1">
+          <mxGeometry x="60" y="440" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RBxxBL3aRVamJem5Zn1p-1" value="DELETE ACCOUNT" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="65" y="540" width="265" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RBxxBL3aRVamJem5Zn1p-2" value="Delete your account. This is not reversible." style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" vertex="1" parent="1">
+          <mxGeometry x="67.5" y="500" width="260" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
