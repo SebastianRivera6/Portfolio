@@ -33,8 +33,8 @@ class GlobalVariables:
                 "Accept": "application/json"
             },
             "authentication": {
-                "username": "housingrest@fullerton.edu",
-                "password": "1bfb9011-6989-4d34-9eec-238e224ab253",
+                "username": "*****",
+                "password": "*****",
                 "type": "Basic"
             },
             "body": "SELECT TOP 50 DISTINCT EntryID, LockoutID, Processed, Billing, TermID, Timestamp, RoomSpaceID FROM Lockouts WHERE Processed=0 AND Billing!="" ORDER BY Timestamp ASC"
